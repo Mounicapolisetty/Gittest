@@ -22,7 +22,7 @@ public class Switch {
             default:System.out.println("Consonant");
             break;
 
-        }
+        }//optimise
     }
 
 
